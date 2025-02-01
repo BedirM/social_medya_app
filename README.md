@@ -6,4 +6,7 @@ Afterwards, the project will run smoothly.
 
 sample firestore installation: https://www.youtube.com/watch?v=TW02hwhBvo4
 
-![1](https://github.com/user-attachments/assets/4621f6ea-f411-47ea-8d30-aa8efb545978)
+
+
+
+![2](https://github.com/user-attachments/assets/262abd92-e20d-4471-baa5-04e9ffc8a4c0)
