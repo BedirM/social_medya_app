@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add_post"
+        android:title="Gönderi Ekle"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="Çıkış"
+        android:showAsAction="never" />
+</menu>
